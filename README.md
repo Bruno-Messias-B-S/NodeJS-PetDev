@@ -23,7 +23,7 @@ Make sure "Git" is installed in your PC!
     git clone https://github.com/Bruno-Messias-B-S/nodejs-petDev
 
 ### Prerequisite
-npm install -g nodemon typescript ts-node
+    npm install -g nodemon typescript ts-node
 
 ### Installation
     npm install
