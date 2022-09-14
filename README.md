@@ -7,14 +7,9 @@
 <img alt="Overview" src="./gitFiles/pet-overview.gif" />
 
 ## | Search Bar
-<img alt="Skills" src="./github/Skills.gif" />
+<img alt="Skills" src="./gitFiles/pet-search-bar.gif" />
 
-<img alt="Skins" src="./github/Skins.gif" />
-
-## | Mobile Version
-<img alt="Mobile-Version" src="./github/Kaisa-mobile.gif" />
-
-## | Made Using
+## | Done with
 <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -25,7 +20,7 @@
 
 Make sure "Git" is installed in your PC!
 
-    git clone https://github.com/Bruno-Messias-B-S/Landing-Page-Kai-sa.git
+    git clone https://github.com/Bruno-Messias-B-S/nodejs-petDev
 
 ### Prerequisite
 `npm install -g nodemon typescript ts-node`
